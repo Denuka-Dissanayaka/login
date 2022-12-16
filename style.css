@@ -19,7 +19,7 @@
 
 .btn-1 {
     color: white;
-    background-image: linear-gradient(to right, #ff8d22 , #f85d00);
+    background-image: linear-gradient(to right, #fb921e , #fe5601);
     border: none;
     padding: 15px 90px;
     border-radius: 50px;
@@ -28,7 +28,7 @@
 }
 
 .left-container {
-    background-image: linear-gradient(to right, #ff8d22 , #f85d00);
+    background-image: linear-gradient(to right, #febd43 , #ff9620);
     height: 100vh;
     border-radius: 0 45% 45% 0 ;
 
